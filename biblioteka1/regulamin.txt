@@ -1,0 +1,12 @@
+Regulamin korzystania z Biblioteki
+1.Wypozyczanie ksiazek mozliwe jest jedynie po utworzeniu
+konta uzytkownika
+2.Maksymalna ilosc ksiazek do wypozyczenia to 3 sztuki jednoczosnie
+3.Kazda ksiazka musi byc zwrocona do biblioteki przed uplywem 30 dni
+od wypozyczenia
+4.Aby trwale usunac swoje konto nalezy skontaktowac sie z administratorem
+systemu biblioteki
+5.Prosimy o dbanie o dobry stan wypozyczonych przez siebie pozycji- niech
+dobrze sluza rowniez innym czytelnikom
+6.Wszelkie opinie i propozycje nowych nabytkow biblioteki prosimy wysylac na
+naszego maila: biblioteka@obiektowa.cpp
